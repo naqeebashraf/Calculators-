@@ -1,0 +1,11 @@
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\bin\Debug\GPA CALCULATOR ash.exe.config
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\bin\Debug\GPA CALCULATOR ash.exe
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\bin\Debug\GPA CALCULATOR ash.pdb
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA CALCULATOR ash.csproj.AssemblyReference.cache
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA CALCULATOR ash.csproj.SuggestedBindingRedirects.cache
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA_CALCULATOR_ash.Form1.resources
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA_CALCULATOR_ash.Properties.Resources.resources
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA CALCULATOR ash.csproj.GenerateResource.cache
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA CALCULATOR ash.csproj.CoreCompileInputs.cache
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA CALCULATOR ash.exe
+C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\obj\Debug\GPA CALCULATOR ash.pdb

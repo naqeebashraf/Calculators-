@@ -1,0 +1,18 @@
+C:\Users\iAT\source\repos\simple calculator\simple calculator\bin\Debug\net6.0-windows\simple calculator.exe
+C:\Users\iAT\source\repos\simple calculator\simple calculator\bin\Debug\net6.0-windows\simple calculator.deps.json
+C:\Users\iAT\source\repos\simple calculator\simple calculator\bin\Debug\net6.0-windows\simple calculator.runtimeconfig.json
+C:\Users\iAT\source\repos\simple calculator\simple calculator\bin\Debug\net6.0-windows\simple calculator.dll
+C:\Users\iAT\source\repos\simple calculator\simple calculator\bin\Debug\net6.0-windows\simple calculator.pdb
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.csproj.AssemblyReference.cache
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple_calculator.Form1.resources
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.csproj.GenerateResource.cache
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.AssemblyInfoInputs.cache
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.AssemblyInfo.cs
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.dll
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\refint\simple calculator.dll
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.pdb
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple calculator.genruntimeconfig.cache
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\ref\simple calculator.dll
+C:\Users\iAT\source\repos\simple calculator\simple calculator\obj\Debug\net6.0-windows\simple_calculator.Properties.Resources.resources

@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: GPA CALCULATOR ash, Configuration: Debug Any CPU ------
+1>  GPA CALCULATOR ash -> C:\Users\iAT\source\repos\GPA CALCULATOR ash\GPA CALCULATOR ash\bin\Debug\GPA CALCULATOR ash.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:38 PM and took 04.365 seconds ==========
